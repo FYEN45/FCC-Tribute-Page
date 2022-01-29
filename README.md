@@ -1,4 +1,4 @@
-#FCC Tribute Page
+# FCC Tribute Page
 
 [My Tribute Page](https://fyen45.github.io/FCC-Tribute-Page/)
 
